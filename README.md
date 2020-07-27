@@ -1,6 +1,6 @@
 # vtb-bco-plugin
 
-### Плагин BCO сайта https://bo.vtb24.ru для браузера Google Chrome под Mac OS 10.15 Catalina
+### Плагин BCO сайта "ВТБ Бизнес онлайн" https://bo.vtb24.ru для браузера Google Chrome под Mac OS 10.14+
 
 > По заявлению техподдержки ВТБ плагин не работает в браузере Google Chrome под Mac OS 10.14+. 
 
