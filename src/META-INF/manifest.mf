@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+
+Name: background.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VvJStpf8pccE3wmmR8aBgQ==
+SHA1-Digest: 1xB3Os9B0iIxTZku6fZFnA+L+Sc=
+
+Name: content.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wDUSs6/pRwwh0n6AFQ8p4w==
+SHA1-Digest: JojXCyxX2lD2J2El18iwzjdsG0M=
+
+Name: FireBreathPromise.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kf+aM6PoKm0QA+OwPH7TyQ==
+SHA1-Digest: U7nIV9siG+MEz9hIls89OGsYwyw=
+
+Name: firewyrm.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uXtjbcswxYbrj8miNddHQg==
+SHA1-Digest: 09AqBVQqeIqLGZ/PHtgGl8fkAjw=
+
+Name: icon-128.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fh4pLjpfd1aqw5Ddxqdz7Q==
+SHA1-Digest: /C+tGmOKUXZT9OCqsSnKzNZrMh4=
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Y6IegDc3knG15PDpVtnMKg==
+SHA1-Digest: DOPFkVF+K3OFuGNrUSE6YrEsswY=
+
+Name: wyrmhole-page.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NxOz7/mqiVy0AhrZanjpSw==
+SHA1-Digest: VguIXLRvO9cqz5u2xo3U1ziuxZ8=
+
+Name: wyrmhole.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: V/3J8dyk5oG645ZQyUvHSA==
+SHA1-Digest: wypnzVE+6hwf+7It0LL4w0RwFu0=
+
